@@ -14,5 +14,5 @@ Part IV: Should the Elite be Trusted?
 
 ## Cluster and Notebook Configs
 
-![notebook](notebook.png)
-![cluster](cluster.png)
+![notebook](asset/notebook.png)
+![cluster](asset/cluster.png)
