@@ -12,7 +12,7 @@ Part III: Do Yelp Reviews Skew Negative?
 
 Part IV: Should the Elite be Trusted? 
 
-## Cluster and Notebook Configs
+## Notebook and Cluster Configs
 
 ![notebook](asset/Notebook.png)
 ![cluster](asset/Cluster.png)
